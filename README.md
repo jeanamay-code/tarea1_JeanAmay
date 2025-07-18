@@ -1,8 +1,8 @@
 # 🧠 UEES – IA Semana 1: Laboratorio Práctico en Google Colab
 
 ## 👨‍💻 Autor
-**Nombre**: Wagner Moreno  
-**Correo institucional**: wagner.california11@estudiantes.uees.edu.ec
+**Nombre**: Jean Amay  
+**Correo institucional**: jean.amay@uees.edu.ec
 
 ---
 
